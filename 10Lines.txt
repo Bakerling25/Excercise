@@ -1,10 +1,10 @@
 Lorem ipsum nytord1 sit amet, consectetur adipiscing elit.
 Duis lacinia neque non ex vulputate blandit.
 Pellentesque convallis placerat nunc varius pharetra.
-Proin aliquam ante vel dui lacinia ultricies.
+This was a line of text before.
 Cras at metus cursus, eleifend mi quis, molestie arcu.
 Sed ultricies est eget massa mattis vulputate.
-Pellentesque sit amet ipsum a purus bibendum commodo elementum vitae arcu.
+This was also a line og text before.
 Donec condimentum odio elit, id pulvinar neque sagittis sit amet.
 Sed et dolor a velit vestibulum scelerisque sit amet ut dolor.
 Nullam eget felis luctus, nytord2 nytord3, laoreet nibh.
