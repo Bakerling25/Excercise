@@ -2,3 +2,4 @@ Just some small changes new branch feature 123
 
 This is the second change on Branch MasterPiece
 Here is another hitfix commit.
+Second Commit
