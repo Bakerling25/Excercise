@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Further work on master second time 123
+=======
+Further work on master
+>>>>>>> parent of 8e003a3... Some changes
